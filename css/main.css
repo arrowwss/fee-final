@@ -57,18 +57,14 @@
   margin-left: 15vh;
 }
 
-/* Button styles */
-/* Button styles */
-/* Button styles */
-/* Button styles */
-/* Button styles */
+
 .get-started-btn {
   background-color: #5bc0de; /* Sky blue color */
   color: #fff; /* White text */
   padding: 15px 30px; /* Adjust padding for better appearance */
   border: none; /* Remove border for a cleaner look */
   border-radius: 35px; /* Adjust border radius for a smoother look */
-  font-size: 18px; /* Increase font size for better visibility */
+  font-size: 18px; 
   font-weight: bold; /* Emphasize the text */
   text-transform: uppercase; /* Make the text uppercase for a more stylish look */
   position: relative; /* Required for the glowing effect */
@@ -103,14 +99,16 @@
 
 
 .fade-in-text {
-  opacity: 0; /* Start with the text invisible */
-  animation: fade-in 1.5s ease-in-out forwards; /* Fade-in animation */
+  opacity: 0; 
+  animation: fade-in 1.5s ease-in-out forwards; 
 }
 
 @keyframes fade-in {
   from { opacity: 0 }
   to { opacity: 1 }
 }
+
+
 
 
 

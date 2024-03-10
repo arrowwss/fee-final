@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: linear-gradient(to right, #00014a, #281f6f);
+    background-image:  linear-gradient(to right, #202156, #9789f7);;
 }
 ::selection{
     color: #fff;
@@ -23,6 +23,7 @@ body{
     background: #fff;
     padding: 25px 28px 45px;
     box-shadow: 7px 7px 20px rgba(0, 0, 0, 0.05);
+    border: 4px solid black;
 }
 .wrapper header{
     font-size: 28px;

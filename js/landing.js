@@ -13,7 +13,10 @@ container.onmousemove = function (e) {
     layer[6].style.transform = 'translate(' + x / 10 + 'px,' + y / 10 + 'px)';
 }
 
-function changeurl(){
-    window.location = "../html/card.html"
+function getParallaxUrl(){
+    window.location = "../html/parallax.html"
 }
 
+function getQuoteUrl(){
+    window.location = "../html/quote.html"
+}
