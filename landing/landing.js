@@ -14,9 +14,9 @@ container.onmousemove = function (e) {
 }
 
 function getParallaxUrl(){
-    window.location = "../html/parallax.html"
+    window.location = "../parralax/parallax.html"
 }
 
 function getQuoteUrl(){
-    window.location = "../html/quote.html"
+    window.location = "../quote/quote.html"
 }
